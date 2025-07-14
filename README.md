@@ -1,2 +1,2 @@
 # cybersecurity-notes
-Documenting my cybersecurity learning journey using TryHackMe.
+Documenting my cybersecurity learning journey.
